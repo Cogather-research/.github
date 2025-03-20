@@ -31,6 +31,7 @@ project-name/
 ### 协作流程  
 
 1. **fork 项目**：将感兴趣的开源仓库 fork 到 Cogather-research 组织下  
+**fork仓因为只能有一层目录层级，因此需要修改命名，例如ollama/ollama仓重新命名为ollama-ollama**
 2. **创建学习目录**：在 fork 的仓库中添加 `cogather-notes` 目录  
 3. **记录学习过程**：在对应目录中添加笔记、流程图和示例  
 4. **同步上游代码**：定期从原仓库同步更新，保持代码最新  
