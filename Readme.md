@@ -20,7 +20,7 @@ Cogather-research 是一个致力于开源代码学习与研究的协作组织�
 ```
 project-name/
 ├── ... (原项目文件)
-└── cogather-notes/ # 我们的学习笔记和输出目录
+└── cogather-research/ # 我们的学习笔记和输出目录
     ├── docs/ # 文档和学习总结
     ├── diagrams/ # 流程图、架构图等
     ├── examples/ # 示例代码和实验
